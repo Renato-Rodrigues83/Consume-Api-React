@@ -25,7 +25,7 @@
       "createdAt": "2024-08-29T18:41:19.850Z"
     },
     {
-      "description": "Assinatura OF",
+      "description": "Assinatura Netflix",
       "price": 300,
       "category": "Diversão",
       "type": "income",
@@ -33,7 +33,7 @@
       "id": 4
     },
     {
-      "description": "Sopa de macaco",
+      "description": "Sopa",
       "price": 10,
       "category": "Alimentação",
       "type": "outcome",

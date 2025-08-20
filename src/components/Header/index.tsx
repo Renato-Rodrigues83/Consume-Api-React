@@ -6,7 +6,7 @@ export function Header() {
     return (
         <HeaderContainer>
             <HeaderContent>
-                <h1>Logo</h1>
+                <h1>DT GRANA</h1>
                 <Dialog.Root>
                     <Dialog.Trigger asChild>
                         <NewTransactionButton>Nova Transação</NewTransactionButton>
